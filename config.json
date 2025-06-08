@@ -1,11 +1,12 @@
 {
-  "radio_stream_url": "https://radio.localstreamgh.com/listen/adepa_radio/radio.mp3",
-  "tv_stream_url": "https://tv.localstreamgh.com/Richtv/index.m3u8",
-  "about_us": "Adepa Radio is your cultural and inspirational streaming hub.",
-  "privacy_policy": "We respect your privacy. No personal data is collected.",
-  "social_media": {
-    "facebook": "https://facebook.com/adeparadio",
-    "twitter": "https://twitter.com/adeparadio",
-    "instagram": "https://instagram.com/adeparadio"
+  "radioStreamUrl": "https://radio.localstreamgh.com/listen/adepa_radio/radio.mp3",
+  "tvStreamUrl": "https://tv.localstreamgh.com/Richtv/index.m3u8",
+  "aboutUsContent": "Welcome to Adepa Radio & TV App! We are dedicated to bringing you the best in local and international content, from music and news to engaging talk shows and visual entertainment. Our mission is to connect with our community and provide a rich, informative, and entertaining streaming experience. Thank you for joining us!",
+  "privacyPolicyContent": "Your privacy is paramount to us. This application does not collect any personally identifiable information from its users. We only access the internet to stream content and fetch configuration updates. We do not use cookies or tracking technologies. Your use of this app implies your agreement to this simple privacy policy. For any questions, please contact us via our social media channels or website.",
+  "socialMediaHandles": {
+    "facebook": "https://www.facebook.com/adeparadiotv",
+    "twitter": "https://twitter.com/adeparadiotv",
+    "instagram": "https://www.instagram.com/adeparadiotv",
+    "website": "https://www.localstreamgh.com"
   }
 }
