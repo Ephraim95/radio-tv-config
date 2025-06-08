@@ -1,6 +1,6 @@
 {
-  "radio_url": "https://radio.localstreamgh.com/listen/adepa_radio/radio.mp3",
-  "tv_url": "https://tv.localstreamgh.com/Richtv/index.m3u8",
+  "radio_stream_url": "https://radio.localstreamgh.com/listen/adepa_radio/radio.mp3",
+  "tv_stream_url": "https://tv.localstreamgh.com/Richtv/index.m3u8",
   "about_us": "Adepa Radio is your cultural and inspirational streaming hub.",
   "privacy_policy": "We respect your privacy. No personal data is collected.",
   "social_media": {
